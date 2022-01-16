@@ -28,5 +28,5 @@ The data transformation process included:
 - Updating empty or inconsistent fields in one file with those from another
 - Renaming columns
 
-# Loading Data
+# Loading
 Once the data was extracted and transformed, it was then loaded into SQL tables using PostgreSQL. 
